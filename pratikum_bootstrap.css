@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(124, 124, 124);
+}
+
 .hero-banner{
     background-image: url("https://mobiledevlife.com/wp-content/uploads/2018/05/road_landscape_7-wallpaper-2560x1440.jpg");
     background-size: cover;
